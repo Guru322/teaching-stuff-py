@@ -110,5 +110,3 @@ None
 - **Dictionary**: A pair of related items (like a word and its definition)
 - **None**: No value (like saying "nothing")
 
-These data types help Python know how to handle and work with different types of information!
-```
