@@ -5,7 +5,7 @@ Python is a **high-level, interpreted** programming language known for its simpl
 
 ### Key Terms:
 - **High-level Language**: A programming language that is closer to human languages and abstracts away most of the machine-level details.
-- **Interpreted Language**: Python code is executed line by line by an interpreter, which means it doesn't need to be compiled before running. This makes debugging easier but can sometimes make it slower compared to compiled languages like C++.
+- **Interpreted Language**: Python code is executed line by line by an interpreter, which means it doesn't need to be compiled before running. This makes debugging easier but can sometimes make it slower compared to compiled languages like C++ (Python code is run directly by the computer, line by line, without needing to be prepared beforehand. This makes finding mistakes easier, but can also make it run slower than some other programming languages.).
 
 ### Why Python for Data Science?
 - **Easy to Learn**: Python's syntax is simple and readable, making it a great language for beginners.
